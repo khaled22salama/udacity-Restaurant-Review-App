@@ -2,7 +2,7 @@
 
 This app  is created as part of the Udacity Nanodegree. The project is divided into stages.
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.jpg)
 
 #### Stage 1 focuses on
 
